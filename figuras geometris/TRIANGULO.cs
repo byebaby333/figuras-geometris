@@ -12,6 +12,7 @@ namespace figuras_geometris
         private float LADO2;
         //CREAR UN CONSTRUCTOR PARA RECTANGULO 
         public float LADO2;
+    //esto es un comentario nuevo 10 am
         {
             set//poner valor 
             {//pregunta si el lado <0
